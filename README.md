@@ -50,10 +50,9 @@
 ## Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cpp,idea&theme=light">
-    <img alt="Java, C++, IntelliJ" src="https://skillicons.dev/icons?i=java,cpp,idea&theme=dark">
-  </picture>
+  <img height="48" alt="Java" src="https://skillicons.dev/icons?i=java&amp;theme=light">
+  <img height="48" alt="C++" src="https://skillicons.dev/icons?i=cpp&amp;theme=light">
+  <img height="48" alt="IntelliJ" src="https://skillicons.dev/icons?i=idea&amp;theme=light">
 </p>
 
 ## Activity
